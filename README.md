@@ -1,5 +1,7 @@
 # CSE431_Task-1
 
+youtube video link: https://www.youtube.com/watch?v=jbLsvShyd08
+
 
 
 Public link to the slide (Anyone on the internet can view without login):
