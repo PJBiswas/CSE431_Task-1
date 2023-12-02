@@ -1,6 +1,6 @@
 # CSE431_Task-1
 
-youtube video link: https://www.youtube.com/watch?v=jbLsvShyd08
+YouTube video link: https://www.youtube.com/watch?v=jbLsvShyd08
 
 
 
